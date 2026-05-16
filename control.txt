@@ -1,0 +1,3 @@
+version=1.0.0
+enabled=Y
+message=정상 사용 가능합니다.
